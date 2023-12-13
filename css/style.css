@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #000000b2;
+}
+header {
+  margin-bottom: 80px;
+}
+.wrapper {
+  margin: 50px;
+  background: #f5f4f4;
+}
+
+.wrap-table {
+  margin-top: 85px;
+  padding: 20px;
+}
+.navbar {
+  background: #f5f4f4;
+  margin-bottom: 50px;
+}
+.table-wrap {
+  margin-top: 50px;
+}
+.light {
+  background: lightgreen;
+}
+.client {
+  cursor: pointer;
+}
